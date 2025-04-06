@@ -4,6 +4,10 @@ author: "Enzo Aravena"
 format: html
 ---
 
+
+Content for Math 250, Introduction to Statistical Programming, at Lake Forest College
+
+
 ```{r}
 library(usethis)
 ```
