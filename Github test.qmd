@@ -1,0 +1,26 @@
+---
+title: "git_hub test"
+author: "Enzo Aravena"
+format: html
+---
+
+```{r}
+library(usethis)
+```
+
+
+```{r}
+create_github_token()
+gitcreds::gitcreds_set()
+```
+
+
+```{r}
+use_github()
+```
+
+
+```{r}
+use_readme_md()
+```
+
